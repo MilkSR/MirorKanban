@@ -955,7 +955,7 @@ def launch_tui(data_path: Path) -> int:
             print("The modern board app needs Textual installed.")
             print()
             print("Install it with:")
-            print("  python -m pip install -r scripts\\requirements-board.txt")
+            print("  python -m pip install -r requirements.txt")
             print()
             print("Then run:")
             print("  python miror_kanban.py")

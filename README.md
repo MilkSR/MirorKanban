@@ -2,6 +2,10 @@
 
 Miror Kanban is a lightweight terminal project board with both a polished interactive TUI and dependency-free command-line workflows.
 
+<p align="center">
+  <img src="assets/miror-kanban-textual-demo.gif" alt="Miror Kanban Textual terminal UI in action" width="100%">
+</p>
+
 ## Features
 
 - Five-stage Kanban workflow: Backlog, Next Up, In Progress, Testing, and Done
