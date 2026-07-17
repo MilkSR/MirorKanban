@@ -1,0 +1,12 @@
+{
+  "columns": [
+    {"color": "blue", "id": "backlog", "name": "Backlog"},
+    {"color": "cyan", "id": "next", "name": "Next Up"},
+    {"color": "yellow", "id": "doing", "name": "In Progress"},
+    {"color": "magenta", "id": "testing", "name": "Testing"},
+    {"color": "green", "id": "done", "name": "Done"}
+  ],
+  "items": [],
+  "next_id": 1,
+  "version": 1
+}
